@@ -1,3 +1,4 @@
-<video width="320" height="240" controls>
-  <source src="preview.mp4" type="video/mp4">
-</video>
+# YARN START
+
+sebelum memulai anda harus menjalankan web backendnya
+link nya <a href="https://github.com/fikrisuheri/Backend-larareact-crud">disini</a>
